@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Skogsgläntan",
+    "image": "/stuga1.jpg",
+    "description": "Skogsgläntan är en mysig stuga som ligger djupt inne i en gammal tallskog. Här kan du höra fågelsången från morgon till kväll och njuta av tystnaden som bara naturen kan erbjuda. Stugan har två sovrum, ett fullt utrustat kök och en öppen spis som skapar en varm och inbjudande atmosfär. Utomhus finns en stor altan med utsikt över skogen och en eldstad för grillkvällar under stjärnorna."
+  },
+  {
+    "id": 2,
+    "name": "Sjövikens strandstuga",
+    "image": "/stuga2.jpg",
+    "description": "Belägen precis vid en klar insjö erbjuder Sjövikens Strandstuga fantastisk utsikt och direkt tillgång till vattnet. Med egen brygga och roddbåt kan du enkelt njuta av fiske, bad och kvällsdopp. Stugan har tre sovrum, en vedeldad bastu och ett charmigt vardagsrum med stora fönster som vetter mot sjön. Perfekt för familjer som söker lugn och ro i en naturskön miljö."
+  },
+  {
+    "id": 3,
+    "name": "Fjällhöjden",
+    "image": "/stuga3.jpg",
+    "description": "Fjällhöjden är en rustik, men modern stuga som ligger uppe i fjällen med spektakulär utsikt över bergstopparna. Här kan du åka skidor direkt från dörren under vintern och vandra eller cykla på leder under sommaren. Stugan har fyra sovrum, en stor kamin och ett spa-rum med jacuzzi där du kan slappna av efter en dag av äventyr. Den stora terrassen har panoramautsikt över fjällen."
+  },
+  {
+    "id": 4,
+    "name": "Ekbacken",
+    "image": "/stuga4.jpg",
+    "description": "Ekbacken är en elegant, nybyggd stuga som kombinerar modern design med lantlig charm. Stugan har ett öppet vardagsrum med stora fönster från golv till tak, vilket ger en luftig och ljus känsla. Här finns två sovrum, ett fullt utrustat kök och en terrass med grillmöjligheter. Omgiven av böljande åkrar och ekdungar är detta en perfekt tillflyktsort för par eller små familjer som vill uppleva lyx på landet."
+  },
+  {
+    "id": 5,
+    "name": "Havsbris",
+    "image": "/stuga5.jpg",
+    "description": "Havsbris ligger bara ett stenkast från havet och erbjuder en fantastisk havsutsikt och en fräsch, marin atmosfär. Med stora panoramafönster och en soldränkt uteplats är detta den perfekta platsen för att njuta av solnedgångar över havet. Stugan har två sovrum och ett rymligt vardagsrum med öppenspis samt en bastu för sköna kvällar. Närheten till havet gör det idealiskt för bad, segling och strandpromenader."
+  },
+  {
+    "id": 6,
+    "name": "Skärgårdsdrömmen",
+    "image": "/stuga6.jpg",
+    "description": "Belägen på en liten ö i skärgården, Skärgårdsdrömmen erbjuder en avskild, men lättillgänglig tillflyktsort med egen brygga och badplats. Stugan har tre sovrum och en mysig veranda där du kan njuta av frukost med utsikt över havet. Med en vedeldad bastu och en båt tillgänglig är detta det perfekta valet för dem som vill uppleva skärgårdslivet i sin fulla prakt, med närhet till små öar att utforska."
+  }
+]
